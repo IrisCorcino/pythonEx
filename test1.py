@@ -1,4 +1,4 @@
-intervalo = int( input( "Intervalo = "))
+intervalo = int( input( "Interval = "))
 cont = 1
 quant = 0
 while  cont <= intervalo :
@@ -14,4 +14,4 @@ while  cont <= intervalo :
         print cont
     cont += 1
 
-print "Amont of perfect number are %i " % quant
+print "Amount of perfect numers is %i " % quant
